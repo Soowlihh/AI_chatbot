@@ -8,8 +8,8 @@ A FastAPI-based chatbot backend that routes user messages to an LLM provider and
 ## Tech Stack
 - Python, FastAPI
 - REST API
-- Environment-based config (no secrets committed)
-- (Optional: Docker / CI/CD if you have it)
+- Environment-based config
+- Docker / CI/CD 
 
 ## Features
 - Chat endpoint that accepts user input and returns model responses
