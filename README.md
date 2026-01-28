@@ -1,3 +1,5 @@
+![CI](https://github.com/Soowlihh/AI_chatbot/actions/workflows/ci.yml/badge.svg)
+
 # AI Chatbot (FastAPI)
 
 ## Overview
